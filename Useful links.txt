@@ -5,3 +5,16 @@ Just drag the SBML file into this online simulator and play around the simulatio
 https://www.ebi.ac.uk/biomodels/
 
 Access to numbers of models in SBML
+
+https://www.genome.jp/ 
+KEGG section
+https://www.biocyc.org
+
+www.datanator.info
+
+http://copasi.org/
+
+https://tellurium.readthedocs.io/en/latest/antimony.html
+
+In case of any questions: tellurium-discuss@googlegroups.com
+
